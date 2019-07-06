@@ -4,9 +4,6 @@
 </p>
 
 <h2>Redirect to github page with parameter</h2>
-<p>
-https://github.com/login?<br />client_id=xxxxxxxxxxxxxxxxxxxxxx<br />&return_to=/login/oauth/authorize?client_id=xxxxxxxxxxxxxxxxxxxxxx&redirect_uri=https://gitlab.com/users/auth/github/callback&response_type=codescope=user:email&state=.........................
-</p>
 <p align="center">
 <img src="assets/images/bitbucket/gitlab-2-bitbucket-login-screen.PNG" />
 </p>
