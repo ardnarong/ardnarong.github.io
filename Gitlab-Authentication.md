@@ -3,7 +3,7 @@
 <img src="assets/images/gitlab/gitlab-1-login-screen.PNG" />
 </p>
 
-Redirect to github page with parameter
+<h2>Redirect to github page with parameter</h2>
 <p>
 https://github.com/login? 
 
@@ -14,7 +14,7 @@ return_to=/login/oauth/authorize?client_id=xxxxxxxxxxxxxxxxxxxxxx&redirect_uri=h
 <p>
 <img src="assets/images/gitlab/gitlab-2-github-login-screen.PNG" />
 </p>
-Retun to git lab
+<h2>Retun to git lab</h2>
 <p>
 <img src="assets/images/gitlab/gitlab-3-login-success.PNG" />
 </p>
