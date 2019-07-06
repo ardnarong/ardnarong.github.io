@@ -1,9 +1,11 @@
-[[https://github.com/ardnarong.github.io/assets/images/gitlab/gitlab-1-login-screen.PNG]]
+
 <p>
 <img src="assets/images/gitlab/gitlab-1-login-screen.PNG" />
 </p>
 <p>
-https://github.com/login?client_id=bbe1fe17fd3206756805&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Dbbe1fe17fd3206756805%26redirect_uri%3Dhttps%253A%252F%252Fgitlab.com%252Fusers%252Fauth%252Fgithub%252Fcallback%26response_type%3Dcode%26scope%3Duser%253Aemail%26state%3D39b7e50d10e2c5d726d9603bc733e15c5c64970b6d0cdbeb
+https://github.com/login?
+  client_id=bbe1fe17fd3206756805
+  &return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Dbbe1fe17fd3206756805%26redirect_uri%3Dhttps%253A%252F%252Fgitlab.com%252Fusers%252Fauth%252Fgithub%252Fcallback%26response_type%3Dcode%26scope%3Duser%253Aemail%26state%3D39b7e50d10e2c5d726d9603bc733e15c5c64970b6d0cdbeb
 </p>
 <p>
 <img src="assets/images/gitlab/gitlab-2-github-login-screen.PNG" />
