@@ -1,4 +1,4 @@
-[comment]: <> (Application Security Verification Standard (ASVS)  V4)
+[comment]: <> (Application Security Verification Standard [ASVS]  V4)
 
 Requirement ID : V5.1 
 
