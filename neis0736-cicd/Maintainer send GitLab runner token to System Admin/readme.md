@@ -1,6 +1,7 @@
 Maintainer send GitLab runner token to System Admin
 
 •	Login GitLab
+
 •	Go to setting menu > CI/CD > Runner  and click expand
 
 
