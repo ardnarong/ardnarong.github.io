@@ -1,4 +1,4 @@
-Maintainer send GitLab runner token to System Admin
+<h1>Maintainer send GitLab runner token to System Admin</h1>
 
 •	Login GitLab
 
