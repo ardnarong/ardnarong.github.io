@@ -1,4 +1,4 @@
-Using GitLab CI-CD with a GitHub repository
+<h1>Using GitLab CI-CD with a GitHub repository</h1>
 
 •	Login GitLab
 •	Create new project
