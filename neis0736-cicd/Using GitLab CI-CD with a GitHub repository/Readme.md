@@ -1,7 +1,9 @@
 <h1>Using GitLab CI-CD with a GitHub repository</h1>
 
 •	Login GitLab
+
 •	Create new project
+
 •	Select CI/CD for external repo > Select GitHub
 <img src="https://ardnarong.github.io/neis0736-cicd/Using%20GitLab%20CI-CD%20with%20a%20GitHub%20repository/images2/img%20(1).png" />
 
